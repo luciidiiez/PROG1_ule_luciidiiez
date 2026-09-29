@@ -1,3 +1,5 @@
+Lucía:
+
 1. lámpara - http://dle.rae.es/?id=MqxCKuY
 2. cañería - http://dle.rae.es/?id=7G1uVB0
 3. ordenador - http://dle.rae.es/?id=XYZ123
@@ -8,3 +10,26 @@
 8. libro - http://dle.rae.es/?id=MNO678
 9. mesa - http://dle.rae.es/?id=PQR901
 10. bolígrafo - http://dle.rae.es/?id=STU234
+
+
+
+María:
+11. "agua": [https://dle.rae.es/agua](https://dle.rae.es/agua)
+
+12. "sol": [https://dle.rae.es/sol](https://dle.rae.es/sol)
+
+13. "tiempo": [https://dle.rae.es/tiempo](https://dle.rae.es/tiempo)
+
+14. "casa": [https://dle.rae.es/casa](https://dle.rae.es/casa)
+
+15. "camino": [https://dle.rae.es/camino](https://dle.rae.es/camino)
+
+16. "fuego": [https://dle.rae.es/fuego](https://dle.rae.es/fuego)
+
+17. "viento": [https://dle.rae.es/viento](https://dle.rae.es/viento)
+
+18. "árbol": [https://dle.rae.es/139rbol](https://www.google.com/search?q=https://dle.rae.es/139rbol)
+
+19. "mar": [https://dle.rae.es/mar](https://dle.rae.es/mar)
+
+20. "puerta": [https://dle.rae.es/puerta](https://dle.rae.es/puerta)
